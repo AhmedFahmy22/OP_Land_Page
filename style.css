@@ -258,7 +258,7 @@ footer {
         flex-basis: 15em;
         width: 100%;
         align-items: center;
-        padding-bottom: 8em;
+        gap: 1em;
     }
 
     .signup-box {
