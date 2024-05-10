@@ -33,6 +33,8 @@ header {
 
 header * {
     color: #F9FAF8;
+    margin: 0;
+    padding: 0;
 }
 
 .header-upper {
@@ -75,11 +77,12 @@ header * {
 
 .header-text {
     flex-basis: 25em;
-    height: 15em;
+    height: 14;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     flex-shrink: 1;
+    gap: 0.5em;
 }
 
 .header-text {
